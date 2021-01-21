@@ -15,6 +15,7 @@ public class Example_TL {
 		System.out.println("Plz enter first name");
 		String name=sc.nextLine();
 		System.out.println("The entered name is:"+name);
+		//System.out.println("The entered name is:"+name);
 		
 	}
 
