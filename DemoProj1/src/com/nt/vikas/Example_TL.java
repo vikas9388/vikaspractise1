@@ -11,6 +11,7 @@ public class Example_TL {
 		System.out.println("Current time is:"+LocalTime.now());
 		*/
 		Scanner sc=new Scanner(System.in);
+		System.out.println("Hello how are you?");
 		
 	}
 
