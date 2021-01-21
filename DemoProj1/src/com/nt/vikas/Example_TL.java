@@ -6,7 +6,7 @@ import java.util.Date;
 import java.util.Scanner;
 
 public class Example_TL {
-
+	public void m1() {System.out.println("m1 method");}
 	public static void main(String[] args) {
 		/*Date d1=new Date();
 		System.out.println("Todays date is:"+d1);
